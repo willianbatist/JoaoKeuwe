@@ -1,10 +1,14 @@
+
 ### Olá eu sou o João Keuwe ! 👋 👨🏾‍💻
 
+![Joao Keuwe GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical)
+
+## Minha Redes Sociais
 [![social-media]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaokeuwe/)
 [![social-media](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5511979919177)
 [![social-media]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_keuwe/)
 
-![Joao Keuwe GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical)
+
 
 
 ### Tecnologias que uso no meu dia a dia.
@@ -17,9 +21,12 @@
 <img align = 'center' alt="GitHub"  src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
-Apaixonado por tecnologia, livros e finanças.
+Apaixonado por tecnologia, games,  livros e finanças.
 
 ## Meus útimos projetos
-- [Primeiro-Forms](https://github.com/JoaoKeuwe/primeiro-forms-2021)
+- [Primeiro-Forms](https://github.com/JoaoKeuwe/primeiro-forms-2021) 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/JoaoKeuwe/github-readme-stats)
+ -->
 
 
