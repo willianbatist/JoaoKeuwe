@@ -1,7 +1,7 @@
 
 ### Olá eu sou o João Keuwe ! 👋 👨🏾‍💻
 
-![Joao Keuwe GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical)
+![Joao Keuwe GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## Minha Redes Sociais
 [![social-media]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaokeuwe/)
