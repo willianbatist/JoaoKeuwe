@@ -1,7 +1,8 @@
 
 ### Olá eu sou o João Keuwe ! 👋 👨🏾‍💻
 
- Tenho 20 anos, moro em São Paulo capital e atualmente sou estudante da Trybe em Desenvolvimento Web full-stack junior.
+ Tenho 20 anos, moro em São Paulo capital e atualmente sou estudante na
+ Trybe em Desenvolvimento Web full-stack junior.
  
 <div>
 <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
