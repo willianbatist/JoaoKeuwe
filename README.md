@@ -27,6 +27,7 @@
 
 ## Meus útimos projetos
 - [Landing page Starbucks](https://joaokeuwe.github.io/landingPage-starbucks/) 
+- [Trybe warts](https://joaokeuwe.github.io/Project-Trybe-Warts/) 
 - [Hora Do Dia](https://joaokeuwe.github.io/Hora-do-dia.github.io/) 
 - [Primeiro-Forms](https://joaokeuwe.github.io/primeiro-forms.github.io/?) 
 
