@@ -1,7 +1,7 @@
 
 ### Olá eu sou o João Keuwe ! 👋 👨🏾‍💻
 
- Tenho 20 anos, moro em São Paulo capital e atualmente sou estudante na
+ Tenho 20 anos, moro em São Paulo capital e atualmente sou estudante na <br>
  Trybe em Desenvolvimento Web full-stack junior.
  
 <div>
