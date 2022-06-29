@@ -5,7 +5,9 @@
  - 🔭 Apaixonado por tecnologia 
  
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical)
+ <a href="https://github.com/JoaoKeuwe">
+<img height = "181em" src= "https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
 </div>
  
  ## 
