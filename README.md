@@ -14,6 +14,10 @@
  ## 
  
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&langs_count=7&theme=radical"/> 
+ 
+ <img align='right' height='220' style="margin-right:20px" src='programmer.png.webp' alt='Programmer'>
+
+<br>
 
 ## Contatos 📲
 
