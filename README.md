@@ -1,4 +1,6 @@
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JoãoKeuwe%20&fontAlignY=40&color=gradient)
+
 ### Olá eu sou o João Keuwe ! 👋 👨🏾‍💻
  
  - 🌱 Estudante de desenvolvimento web pela Trybe
