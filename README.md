@@ -1,10 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JoãoKeuwe%20&fontAlignY=40&color=gradient)
 
 ## Olá eu sou o João Keuwe ! 👋 👨🏾‍💻 
- <h2>
+
  - 🌱 Estudante de desenvolvimento web pela Trybe<br>
  - 🔭 Apaixonado por tecnologia 
- </h2>
+
 <div>
  <a href="https://github.com/joaokeuwe">
 <img height = "200em" src= "https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,7 @@
  
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&langs_count=7&theme=radical"/> 
  
- <img align='right' height='220' style="margin-right:20px" src='programmer.png.webp' alt='Programmer'>
+ <img align='right' height='220' style="margin-right:17px" src='programmer.png.webp' alt='Programmer'>
 
 <br>
 
@@ -39,7 +39,7 @@
 <details close="true">
 <summary><h2>:rocket: &nbsp;Clique aqui e veja meus Ultimos Projetos!</h2></summary>
 
- <h2>
+ <h1>
   
 - [Keuwe Tunes](https://eclectic-muffin-2469c4.netlify.app/) 
 - [Landing page Starbucks](https://joaokeuwe.github.io/landingPage-starbucks/)
@@ -48,7 +48,7 @@
 - [Hora Do Dia](https://joaokeuwe.github.io/Hora-do-dia.github.io/) 
 - [Primeiro-Forms](https://joaokeuwe.github.io/primeiro-forms.github.io/?)
   
-</h2>
+</h1>
 
 </details>
 
