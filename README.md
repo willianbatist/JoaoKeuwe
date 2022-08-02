@@ -41,7 +41,6 @@
 
  <h1>
   
-- [Keuwe Tunes](https://eclectic-muffin-2469c4.netlify.app/) 
 - [Landing page Starbucks](https://joaokeuwe.github.io/landingPage-starbucks/)
 - [Landing page Tesla](https://joaokeuwe.github.io/Landing-Page-Tesla/)
 - [Trybe warts](https://joaokeuwe.github.io/Project-Trybe-Warts/) 
