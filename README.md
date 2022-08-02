@@ -37,7 +37,7 @@
  </a>
 </p>
 <details close="true">
-<summary><h2>:rocket: &nbsp;Clique aqui e veja meus Ultimos Projetos!</h2></summary>
+<summary><h1>:rocket: &nbsp;Clique aqui e veja meus Ultimos Projetos!</h1></summary>
 
  <h1>
   
