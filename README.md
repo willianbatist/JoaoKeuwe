@@ -2,8 +2,13 @@
 
 ## Olá eu sou o João Keuwe ! 👋 👨🏾‍💻 
 
- - 🌱 Estudante de desenvolvimento web pela Trybe<br>
- - 🔭 Apaixonado por tecnologia 
+ 
+🔭 Quem sou eu? <br>
+♋ 21 anos <br>
+👨🏾‍💻 Desenvolvedor Web Front-end <br>
+🎮 Amante de games <br>
+📚 Adoro ler livros sobre tecnoliga e desenvolvimento pessoal <br>
+
 
 <div>
  <a href="https://github.com/joaokeuwe">
@@ -30,16 +35,16 @@
 [2]: https://www.linkedin.com/in/joaokeuwe/
 [3]: https://www.instagram.com/joao_keuwe
 
-## Tecnologias que uso no meu dia a dia 👨🏾‍💻
+## Principais Tecnologias 👨🏾‍💻
 <p>
 <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,heroku,powershell,bash,linux,git,github&perline=9"/>
  </a>
 </p>
-<details close="true">
-<summary><h1>:rocket: &nbsp;Clique aqui e veja meus Ultimos Projetos!</h1></summary>
 
- <h1>
+
+
+## Principais Projetos 🌎
   
 - [Landing page Starbucks](https://joaokeuwe.github.io/landingPage-starbucks/)
 - [Landing page Tesla](https://joaokeuwe.github.io/Landing-Page-Tesla/)
@@ -47,8 +52,7 @@
 - [Hora Do Dia](https://joaokeuwe.github.io/Hora-do-dia.github.io/) 
 - [Primeiro-Forms](https://joaokeuwe.github.io/primeiro-forms.github.io/?)
   
-</h1>
 
-</details>
+
 
 
