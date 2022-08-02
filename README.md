@@ -1,20 +1,19 @@
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JoãoKeuwe%20&fontAlignY=40&color=gradient)
 
-### Olá eu sou o João Keuwe ! 👋 👨🏾‍💻
- 
- - 🌱 Estudante de desenvolvimento web pela Trybe
+## Olá eu sou o João Keuwe ! 👋 👨🏾‍💻 
+ <h2>
+ - 🌱 Estudante de desenvolvimento web pela Trybe<br>
  - 🔭 Apaixonado por tecnologia 
- 
+ </h2>
 <div>
  <a href="https://github.com/joaokeuwe">
-<img height = "181em" src= "https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height = "200em" src= "https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 </div>
  
  ## 
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&langs_count=7&theme=radical"/> 
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&langs_count=7&theme=radical"/> 
 
 ## Contatos 📲
 
