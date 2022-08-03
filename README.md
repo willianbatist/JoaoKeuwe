@@ -2,7 +2,7 @@
 
  ## Olá eu sou o João Keuwe ! 👋 👨🏾‍💻 
 
- 🔭 Quem sou eu? 
+🔭 Quem sou eu? <br>
 ♋ 21 anos <br>
 👨🏾‍💻 Desenvolvedor Web Front-end <br>
 🎮 Amante de games <br>
